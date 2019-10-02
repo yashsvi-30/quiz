@@ -48,5 +48,23 @@ var questions=[
      "option4":"Piezo Lamp Connector",
      "answer":"3"
 
-    } 
+    } ,
+    {"question":"How many digits is a MAC address?",
+     "option1":"8",
+     "option2":"6",
+     "option3":"12",
+     "option4":"4",
+     "answer":"3"
+
+    },
+    {"question":"Who is the founder of Python?",
+     "option1":"Jerry Yang David Filo",
+     "option2":"Guido van Rossum",
+     "option3":"Thomas J. Watson Charles Ranlett Flint",
+     "option4":"Brendan Eich",
+     "answer":"2"
+
+    }
+    
+    
 ];
